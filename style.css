@@ -14,7 +14,7 @@
 
 .container1_sm {
   margin-top: 6rem;
-  height: 37.7rem;
+  height: 38.7rem;
 }
 
 .custom_heading {
@@ -36,6 +36,6 @@
 @media (min-width: 768px) {
   .container1 {
     margin-top: 12rem;
-    height: 35.7rem;
+    height: 34.7rem;
   }
 }
