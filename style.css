@@ -11,6 +11,9 @@
 .bl-r {
   border-bottom-left-radius: 100px;
 }
+.bl-l{
+  border-top-right-radius: 100px;
+}
 
 .container1_sm {
   margin-top: 6rem;
